@@ -1696,3 +1696,22 @@ Continue: Skip saving this asset only.
 [2022.11.25-13.10.03:652][356]LogEditorTransaction: Undo Clicking on Elements
 [2022.11.25-13.10.10:283][917]Cmd: STAT FPS
 [2022.11.25-13.10.11:212][976]Cmd: STAT FPS
+[2022.11.25-13.12.40:041][ 79]Cmd: DELETE
+[2022.11.25-13.12.40:041][ 79]Cmd: ACTOR DELETE
+[2022.11.25-13.12.40:043][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.25-13.12.40:044][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.25-13.12.40:045][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.25-13.12.40:045][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.25-13.12.40:051][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.11.25-13.12.40:053][ 79]LogEditorActor: Deleted 4 Actors (0.012 secs)
+[2022.11.25-13.12.40:062][ 80]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.RecastNavMesh-Default).
+[2022.11.25-13.13.27:371][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.25-13.13.27:375][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.11.25-13.13.27:404][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.25-13.13.27:422][343]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.11.25-13.13.27:423][343]LogSavePackage: Moving '../../../../../../Users/Elli/Documents/AldinGame/ArcadeVRAldin 5.1/Saved/VRTemplateMapF28F45344A6686D7A50261B19CA01BB8.tmp' to '../../../../../../Users/Elli/Documents/AldinGame/ArcadeVRAldin 5.1/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.11.25-13.13.27:430][343]LogFileHelpers: No new changes to save!
+[2022.11.25-13.13.27:430][343]LogFileHelpers: Saving map 'VRTemplateMap' took 0.033
+[2022.11.25-13.13.27:436][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 41.5 sec)
+[2022.11.25-13.13.27:441][343]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.11.25-13.13.27:441][343]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
