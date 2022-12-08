@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Elli/Documents/AldinGame/ArcadeVRAldin(This)/Content/Game/Maps/VRTemplateMap.umap",
+				"C:/Users/Elli/Documents/AldinGame/ArcadeVRAldin(This)/Content/Game/Blueprints/VRPawn.uasset",
+				"C:/Users/Elli/Documents/AldinGame/ArcadeVRAldin(This)/Content/Game/Blueprints/Duck.uasset",
+				"C:/Users/Elli/Documents/AldinGame/ArcadeVRAldin(This)/Content/Game/Blueprints/Pistol.uasset",
+				"C:/Users/Elli/Documents/AldinGame/ArcadeVRAldin(This)/Content/Game/Blueprints/Projectile1.uasset",
+				"C:/Users/Elli/Documents/AldinGame/ArcadeVRAldin(This)/Content/Game/Blueprints/Booth.uasset",
+				"C:/Users/Elli/Documents/AldinGame/ArcadeVRAldin(This)/Content/Game/Blueprints/Duckmodel.uasset",
+				"C:/Users/Elli/Documents/AldinGame/ArcadeVRAldin(This)/Content/Game/Blueprints/Duck2.uasset",
+				"C:/Users/Elli/Documents/AldinGame/ArcadeVRAldin(This)/Content/Game/Blueprints/Duck4.uasset",
+				"C:/Users/Elli/Documents/AldinGame/ArcadeVRAldin(This)/Content/Game/Blueprints/Duck3.uasset",
+				"C:/Users/Elli/Documents/AldinGame/ArcadeVRAldin(This)/Content/Models/Duck/lambert1.uasset",
+				"C:/Users/Elli/Documents/AldinGame/ArcadeVRAldin(This)/Content/Game/Blueprints/MenuWidget.uasset",
+				"C:/Users/Elli/Documents/AldinGame/ArcadeVRAldin(This)/Content/Game/Blueprints/WidgetMenu.uasset"
+			]
+		}
+	]
+}
